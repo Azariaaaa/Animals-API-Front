@@ -1,0 +1,14 @@
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\Front-Final-Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\Front-Final-Workshop.AssemblyInfoInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\Front-Final-Workshop.AssemblyInfo.cs
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\Front-Final-Workshop.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\bin\Debug\net8.0\Front-Final-Workshop.exe
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\bin\Debug\net8.0\Front-Final-Workshop.deps.json
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\bin\Debug\net8.0\Front-Final-Workshop.runtimeconfig.json
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\bin\Debug\net8.0\Front-Final-Workshop.dll
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\bin\Debug\net8.0\Front-Final-Workshop.pdb
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\Front-Final-Workshop.dll
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\refint\Front-Final-Workshop.dll
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\Front-Final-Workshop.pdb
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\Front-Final-Workshop.genruntimeconfig.cache
+C:\Users\krust\OneDrive\Bureau\C#\Front-Final-Workshop\obj\Debug\net8.0\ref\Front-Final-Workshop.dll
